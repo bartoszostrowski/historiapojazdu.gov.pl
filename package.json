@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/bartoszostrowski/historiapojazdu.gov.pl/issues"
   },
-  "homepage": "https://github.com/bartoszostrowski/historiapojazdu.gov.pl#readme"
+  "homepage": "https://github.com/bartoszostrowski/historiapojazdu.gov.pl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
